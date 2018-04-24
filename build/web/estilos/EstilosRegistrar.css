@@ -1,0 +1,29 @@
+fieldset{
+    font-family: arial;
+    font-size: 20px;
+    color: dodgerblue; 
+    background-color: teal; 
+    border-radius: 5px;
+    margin-top: 30px; 
+    line-height: 20px; 
+    
+    
+    outline-width: 10px;
+    border: 5px solid black;
+}
+#principal{
+    background-color: lightblue;
+}
+
+h1{
+    font-family: corbel;
+    
+}
+
+#total{
+    background-color:rgb(152, 211, 255);
+    height: 570px; 
+}
+input{
+    border-radius: 5px; 
+}

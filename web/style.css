@@ -1,0 +1,83 @@
+body{
+	background-repeat: no-repeat;
+	width: 1080px;
+	height: 100vh; 
+}
+
+
+@font-face {
+    font-family: "outerspace"; /*a name to be used later*/
+    src: url("SpaceMathFuentes/outerspace-beta.ttf") format("truetype"); /*URL to font*/
+}
+
+input{
+	background-color: #f4a727;
+	font-family: "outerspace";
+	font-size: 40px;
+	position: absolute;
+    right: 20px;
+    top:10%;
+    height: 70px;
+    width: 80px;
+    text-align: center;
+}
+
+#spaceman{
+	position: relative;
+}
+
+#pierdo{
+	float:left; 
+	position: absolute;
+	top:50%;
+	height: 250px;
+}
+
+#operation{
+	font-family: "outerspace";
+	font-size: 40px;
+	color: black;
+	text-align: center;
+
+}
+
+#counter{
+	font-family: "outerspace";
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	width: 100%;
+}
+
+#resp{
+	display: block;
+	margin: auto;
+	width: 450px;
+	height: 100%;
+}
+
+.divAbajo{
+	
+	position:relative;
+	height: 120px;
+	width: 100%;
+}
+
+.graph{
+	width: 100%;
+	height: 402px;
+}
+
+.centro{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#siguiente{
+
+                position: absolute;
+                top:  400px; 
+                left: 1180px; 
+            }

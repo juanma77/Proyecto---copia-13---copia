@@ -1,0 +1,28 @@
+h1{
+    font-family: arial ;
+    color:darkslategray; 
+    
+}
+
+body{
+    background-color: gainsboro; 
+}
+
+form{
+    font-family: verdana;
+    color:black;
+     border: 5px solid #222;
+    
+    
+}
+
+input{
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+
+textarea{
+    border-radius: 5px;
+}

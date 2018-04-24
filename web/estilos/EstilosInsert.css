@@ -1,0 +1,25 @@
+#cuerpoInRecord{
+    background-color: dimgray;
+}
+
+form{
+    color:white;
+    font-size: 20px;
+    border: 5px solid #222;
+    
+    
+}
+
+h1{
+    color:gainsboro;
+    font-family: arial;
+    
+}
+
+input{
+    border-radius: 5px;
+}
+
+#cuerpoInUser{
+     background-color: rgb(162, 217, 206  );
+}
